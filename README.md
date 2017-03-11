@@ -1,7 +1,7 @@
 # PDGHome
 A weird little homepage I made.
 
-[PDG Home](http://i.imgur.com/qEUnk6j.jpg)
+![PDG Home](http://i.imgur.com/qEUnk6j.jpg)
 
 ## Installation
 I dunno. Host it on a secure server somewhere or somewhere local. I'm bad at coding.
