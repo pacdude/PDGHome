@@ -7,12 +7,18 @@ A weird little homepage I made.
 I dunno. Host it on a secure server somewhere or somewhere local. I'm bad at coding.
 
 ## Using…
-DarkSky's API for weather
+[DarkSky](https://darksky.net/dev/) for weather
+
 Google's geo-location thing for Location
+
 Unspash Source for the background image
-Weather Icons for the weather icons
+
+[Weather Icons](https://erikflowers.github.io/weather-icons/) for the weather icons
+
 Google Fonts for the fonts
+
 FontAwesome for the icons
+
 JQuery for making it work
 
 ## To Do List
